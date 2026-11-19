@@ -1,0 +1,6 @@
+{
+  "uuid": "librepods@local",
+  "name": "LibrePods Controls",
+  "description": "Noise control and battery for AirPods via librepods-ctl",
+  "shell-version": ["50", "51"]
+}
